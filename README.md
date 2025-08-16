@@ -6,7 +6,7 @@ Manara is a serverless application built on AWS cloud services, implementing a R
 
 ## Project Diagram
 
-![Project Architecture Diagram](./Manara.drawio.svg)
+![Project Architecture Diagram](./Manara.drawio.png)
 
 ## Architecture Components
 
@@ -57,3 +57,4 @@ Manara is a serverless application built on AWS cloud services, implementing a R
 - Log aggregation
 - Automated alerting
 - Performance metrics tracking
+
